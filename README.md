@@ -40,15 +40,73 @@ Here are some ideas to get you started:
 - FreeRTOS 
 
 ### ⌨️ My programming languages:
+<!--
 <p float="left">
-  <img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/Cpp.png" width="48" />
+  <img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/Cpp.png" width="55" />
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/c_48x48.png" width="55" /> 
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/python.png" width="175" />
+  <img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/c_48x48.png" width="65" /> 
+  &nbsp; &nbsp; &nbsp; &nbsp;   
+  <img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/python.png" width="8%" /> 
+   &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
+-->
+
+<table>
+  <tr>
+    <td>C++</td>
+     <td>C</td>
+     <td>Python</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/Cpp.png" width=55></td>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/c_48x48.png" width=65></td>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/python.png" width=70></td>
+  </tr>
+ </table>
 
 ### 🛠️ Tools I'm using:
+* **IDEs**  
+
+<table>
+  <tr>
+    <td>Pycharm</td>
+     <td>Arduino IDE</td>
+     <td>Visual Studio</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/PyCharm_Icon.png" width=70></td>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/arduino%20ide%20icon.png" width=90></td>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/VS.png" width=70></td>
+  </tr>
+ </table>
+ 
+ * **FrameWorks & Libraries** :
+  <table>
+  <tr>
+     <td>OpenCV</td>
+     <td>Mediapipe</td>
+     <td>Numpy</td>
+     <td>FireBase</td>
+     <td>Free RTOS</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/opencv%20logo.png" width=70></td>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/t%C3%A9l%C3%A9chargement.png" width=70></td>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/numpy%20logo.png" width=70></td>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/firebase.png" width=70></td>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/FreeRTOS.png" width=80></td>
+  </tr>
+ </table>
+ 
+ * **Design Softwares** :
+ <table>
+  <tr>
+    <td>SolidWorks</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/solidworks%20logo.jpg" width=120></td>
+  </tr>
+ </table>
 
 ### ⚙️ My Projects:
 
