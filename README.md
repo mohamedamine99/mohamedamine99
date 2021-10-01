@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <br>
-  🔬 I'm currently on my final year for a master's degree in the INSAT University (National Institute of Applied Science and Technology).
+  🔬 I'm currently on my final year for an engineering degree in the INSAT University (National Institute of Applied Science and Technology).
   <br>
   🎓 I graduated from Pioneer High School of Sousse
   <br>
@@ -109,8 +109,9 @@ Here are some ideas to get you started:
  </table>
 
 ### ⚙️ My Projects:
-
-
+* [Esp32 iot temperature and humidity monitoring with firebase real time data-base](https://github.com/mohamedamine99/esp32-iot-temperature-and-humidity-monitoring-with-firebase-real-time-data-base)
+* [Virtual Painter Using OpenCV and Hand Detection](https://github.com/mohamedamine99/Virtual-Painter-Using-OpenCV-and-Hand-Detection)
+* [Ninja-Fruit-Like-Game-with-hand-gesture-and-opencv](https://github.com/mohamedamine99/Ninja-Fruit-Like-Game-with-hand-gesture-and-opencv)
 
 ### 📫 Where to find me
 - [LinkedIn](https://www.linkedin.com/in/mohamed-amine-ben-abdeljelil-86a41a1a9/) 👨💼
