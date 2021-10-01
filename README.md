@@ -21,23 +21,31 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-
-  <br>
   <br>
   🔬 I'm currently on my final year for a master's degree in the INSAT University (National Institute of Applied Science and Technology).
   <br>
   🎓 I graduated from Pioneer High School of Sousse
   <br>
-  💻 I love building smart systems , writing code and learning new technologies in the Embedded Systems and Robotics fields
+  💡 I love building smart systems , writing code and learning new technologies in the Embedded Systems and Robotics fields
   <br>
 </p>
 
-### 💻 What am currently working on
 
-### 📖 What am currently learning
+
+### 💻 What I'm currently working on
+
+### 📖 What I'm currently learning
 - Computer Vision with Python
 - Embedded C with ESP32
 - FreeRTOS 
+
+### ⌨️ My programming languages:
+
+### 🛠️ Tools I'm using:
+
+### ⚙️ My Projects:
+
+
 
 ### 📫 Where to find me
 - [LinkedIn](https://www.linkedin.com/in/mohamed-amine-ben-abdeljelil-86a41a1a9/) 👨💼
