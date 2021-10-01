@@ -40,6 +40,13 @@ Here are some ideas to get you started:
 - FreeRTOS 
 
 ### ⌨️ My programming languages:
+<p float="left">
+  <img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/Cpp.png" width="48" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/c_48x48.png" width="55" /> 
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/python.png" width="175" />
+</p>
 
 ### 🛠️ Tools I'm using:
 
