@@ -31,12 +31,13 @@ Here are some ideas to get you started:
 </p>
 
 
-### 💻 What I'm currently working on
-
 ### ⚙️ My Projects:
 * [Esp32 iot temperature and humidity monitoring with firebase real time data-base](https://github.com/mohamedamine99/esp32-iot-temperature-and-humidity-monitoring-with-firebase-real-time-data-base) 
 * [Virtual Painter Using OpenCV and Hand Detection](https://github.com/mohamedamine99/Virtual-Painter-Using-OpenCV-and-Hand-Detection)
 * [Ninja-Fruit-Like-Game-with-hand-gesture-and-opencv](https://github.com/mohamedamine99/Ninja-Fruit-Like-Game-with-hand-gesture-and-opencv)
+
+### 💻 What I'm currently working on
+- Creating Sensor MPU9050 library using C/C++
 
 ### 📖 What I'm currently learning
 - Embedded C with ESP32
@@ -98,6 +99,20 @@ Here are some ideas to get you started:
     <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/PyCharm_Icon.png" width=70></td>
     <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/arduino%20ide%20icon.png" width=90></td>
     <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/VS.png" width=70></td>
+  </tr>
+ </table>
+ 
+ * **Development boards**  
+<table>
+  <tr>
+    <td>STM32</td>
+     <td>Arduino</td>
+     <td>Esp32</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/stm32.PNG" width=70></td>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/arduino.jpg" width=90></td>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/esp32.PNG" width=70></td>
   </tr>
  </table>
  
