@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 * [Esp32 iot temperature and humidity monitoring with firebase real time data-base](https://github.com/mohamedamine99/esp32-iot-temperature-and-humidity-monitoring-with-firebase-real-time-data-base) 
 * [Virtual Painter Using OpenCV and Hand Detection](https://github.com/mohamedamine99/Virtual-Painter-Using-OpenCV-and-Hand-Detection)
 * [Ninja-Fruit-Like-Game-with-hand-gesture-and-opencv](https://github.com/mohamedamine99/Ninja-Fruit-Like-Game-with-hand-gesture-and-opencv)
+* [Digital-Lock-with-VHDL-state-machine](https://github.com/mohamedamine99/Digital-Lock-with-VHDL-state-machine)
 
 ### 💻 What I'm currently working on
 - Creating Sensor MPU9050 library using C/C++
