@@ -62,11 +62,13 @@ Here are some ideas to get you started:
     <td>C++</td>
      <td>C</td>
      <td>Python</td>
+     <td>VHDL</td>
   </tr>
   <tr>
     <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/Cpp.png" width=55></td>
     <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/c_48x48.png" width=65></td>
     <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/python.png" width=70></td>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/vhdl%20logo.jpg" width=70></td>
   </tr>
  </table>
 
