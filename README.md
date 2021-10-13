@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 * [Digital-Lock-with-VHDL-state-machine](https://github.com/mohamedamine99/Digital-Lock-with-VHDL-state-machine)
 
 ### 💻 What I'm currently working on
-- Creating Sensor MPU9050 library using C/C++
+- Computer vision with ESP32 and python PySerial library
 
 ### 📖 What I'm currently learning
 - Embedded C with ESP32
