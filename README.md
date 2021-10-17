@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 * [Virtual Painter Using OpenCV and Hand Detection](https://github.com/mohamedamine99/Virtual-Painter-Using-OpenCV-and-Hand-Detection)
 * [Ninja-Fruit-Like-Game-with-hand-gesture-and-opencv](https://github.com/mohamedamine99/Ninja-Fruit-Like-Game-with-hand-gesture-and-opencv)
 * [Digital-Lock-with-VHDL-state-machine](https://github.com/mohamedamine99/Digital-Lock-with-VHDL-state-machine)
+* [Sensor-data-visualization-with-esp32-and-python](https://github.com/mohamedamine99/Sensor-data-visualization-with-esp32-and-python)
 
 ### 💻 What I'm currently working on
 - Computer vision with ESP32 and python PySerial library
@@ -135,4 +136,4 @@ Here are some ideas to get you started:
 ### 📫 Where to find me
 - [LinkedIn](https://www.linkedin.com/in/mohamed-amine-ben-abdeljelil-86a41a1a9/) 👨💼
 - Mail : mohamedamine.benabdeljelil@insat.u-carthage.tn -- mohamedaminebenjalil@yahoo.fr
-- Portfolio : https://mohamedaminebenabdeljelil.webipie.me/
+- [Portfolio](https://mohamedaminebenabdeljelil.webipie.me/)
