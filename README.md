@@ -81,6 +81,7 @@ Here are some ideas to get you started:
      <td>Numpy</td>
      <td>FireBase</td>
      <td>Free RTOS</td>
+     <td>Matplotlib</td>
   </tr>
   <tr>
     <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/opencv%20logo.png" width=70></td>
@@ -88,6 +89,7 @@ Here are some ideas to get you started:
     <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/numpy%20logo.png" width=70></td>
     <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/firebase.png" width=70></td>
     <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/FreeRTOS.png" width=80></td>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/matplotlib.png" width=80></td>
   </tr>
  </table>
 
@@ -133,3 +135,4 @@ Here are some ideas to get you started:
 ### 📫 Where to find me
 - [LinkedIn](https://www.linkedin.com/in/mohamed-amine-ben-abdeljelil-86a41a1a9/) 👨💼
 - Mail : mohamedamine.benabdeljelil@insat.u-carthage.tn -- mohamedaminebenjalil@yahoo.fr
+- Portfolio : https://mohamedaminebenabdeljelil.webipie.me/
