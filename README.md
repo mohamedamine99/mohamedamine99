@@ -135,5 +135,5 @@ Here are some ideas to get you started:
 
 ### 📫 Where to find me
 - [LinkedIn](https://www.linkedin.com/in/mohamed-amine-ben-abdeljelil-86a41a1a9/) 👨💼
-- Mail : mohamedamine.benabdeljelil@insat.u-carthage.tn -- mohamedaminebenjalil@yahoo.fr
+- Mail : mohamedamine.benabdeljelil@insat.ucar.tn -- mohamedamine.benabdeljelil@insat.u-carthage.tn
 - [Portfolio](https://mohamedaminebenabdeljelil.webipie.me/)
