@@ -32,21 +32,22 @@ Here are some ideas to get you started:
 
 
 ### ⚙️ My Projects:
-* [Esp32 iot temperature and humidity monitoring with firebase real time data-base](https://github.com/mohamedamine99/esp32-iot-temperature-and-humidity-monitoring-with-firebase-real-time-data-base) 
 * [Virtual Painter Using OpenCV and Hand Detection](https://github.com/mohamedamine99/Virtual-Painter-Using-OpenCV-and-Hand-Detection)
-* [Ninja-Fruit-Like-Game-with-hand-gesture-and-opencv](https://github.com/mohamedamine99/Ninja-Fruit-Like-Game-with-hand-gesture-and-opencv)
+* [Mini-Game-with-hand-gesture-and-opencv](https://github.com/mohamedamine99/Ninja-Fruit-Like-Game-with-hand-gesture-and-opencv)
+* [Neural-Network-from-scratch-using-Python](https://github.com/mohamedamine99/Neural-Network-from-scratch)
+* [Esp32 iot temperature and humidity monitoring with firebase real time data-base](https://github.com/mohamedamine99/esp32-iot-temperature-and-humidity-monitoring-with-firebase-real-time-data-base) 
 * [Digital-Lock-with-VHDL-state-machine](https://github.com/mohamedamine99/Digital-Lock-with-VHDL-state-machine)
 * [Sensor-data-visualization-with-esp32-and-python](https://github.com/mohamedamine99/Sensor-data-visualization-with-esp32-and-python)
 
 ### 💻 What I'm currently working on
-- Computer vision with ESP32 and python PySerial library
+- Image Classifiers
+- GANs
 
 ### 📖 What I'm currently learning
-- Embedded C with ESP32
-- Computer Vision with Python
-- FreeRTOS 
+- Deep Learning and image processing with Python
+- Automation with Python
 
-### ⌨️ My programming languages:
+### ⌨️ Programming languages I'm currently using:
 <!--
 <p float="left">
   <img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/Cpp.png" width="55" />
@@ -60,9 +61,9 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
+     <td>Python</td>
     <td>C++</td>
      <td>C</td>
-     <td>Python</td>
      <td>VHDL</td>
   </tr>
   <tr>
@@ -136,4 +137,4 @@ Here are some ideas to get you started:
 ### 📫 Where to find me
 - [LinkedIn](https://www.linkedin.com/in/mohamed-amine-ben-abdeljelil-86a41a1a9/) 👨💼
 - Mail : mohamedamine.benabdeljelil@insat.ucar.tn -- mohamedamine.benabdeljelil@insat.u-carthage.tn
-- [Portfolio](https://mohamedaminebenabdeljelil.webipie.me/)
+
