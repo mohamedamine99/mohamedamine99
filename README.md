@@ -73,9 +73,9 @@ Welcome to my GitHub profile! I am a computer vision junior engineer with a back
 
 <table>
   <tr>
+     <td>C++</td>
+    <td>C</td>
      <td>Python</td>
-    <td>C++</td>
-     <td>C</td>
      <td>VHDL</td>
   </tr>
   <tr>
