@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Mohamed Amine </h1>
-<h3 align="center">A passionate Python and C++ (and a Solidworks designer) Embedded Systems developer from Tunisia</h3>
+<h3 align="center">I am a computer vision junior engineer with a background in embedded software development.</h3>
 
+Welcome to my GitHub profile! I am a computer vision junior engineer with a background in embedded software development. Here you will find a collection of my personal projects and contributions to open-source projects. My expertise lies in utilizing machine learning and computer vision techniques to solve real-world problems. With a solid understanding of embedded systems and proficiency in languages such as C++ and Python, I have experience in software developing for resource-constrained devices. I am always eager to learn new technologies and techniques, and I am excited to continue growing as a developer in this field. Please feel free to check out my projects and contributions, and let me know if you have any questions or comments.
 
 <p align="center">
   <br>
