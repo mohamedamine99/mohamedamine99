@@ -45,7 +45,8 @@ Please feel free to check out my projects and contributions, and let me know if 
 
 ### 💻 What I'm currently working on
 - Image Classifiers
-- GANs
+- Object Detection
+- GANs : Generative Adversarial Networks
 
 ### 📖 What I'm currently learning
 - Deep Learning and image processing with Python
