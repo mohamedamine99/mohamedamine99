@@ -19,18 +19,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mohamed Amine </h1>
 <h3 align="center">I am a computer vision junior engineer with a background in embedded software development.</h3>
 
-Welcome to my GitHub profile! I am a computer vision junior engineer with a background in embedded software development. Here you will find a collection of my personal projects and contributions to open-source projects. My expertise lies in utilizing machine learning and computer vision techniques to solve real-world problems. With a solid understanding of embedded systems and proficiency in languages such as C++ and Python, I have experience in software developing for resource-constrained devices. I am always eager to learn new technologies and techniques, and I am excited to continue growing as a developer in this field. Please feel free to check out my projects and contributions, and let me know if you have any questions or comments.
+Welcome to my GitHub profile! I am a computer vision junior engineer with a background in embedded software development. Here you will find a collection of my personal projects and contributions to open-source projects. My expertise lies in utilizing machine learning and computer vision techniques to solve real-world problems. With a solid understanding of embedded systems and proficiency in languages such as C++ and Python, I have experience in developing software for resource-constrained devices.    
 
-<p align="center">
-  <br>
-  🔬 I'm currently on my final year for an engineering degree in the INSAT University (National Institute of Applied Science and Technology).
-  <br>
-  🎓 I graduated from Pioneer High School of Sousse
-  <br>
-  💡 I love building smart systems , writing code and learning new technologies in the Embedded Systems and Robotics fields
-  <br>
-</p>
-
+I am always eager to learn new technologies and techniques, and I am excited to continue growing as a developer in this field.   
+Please feel free to check out my projects and contributions, and let me know if you have any questions or comments.
 
 ### ⚙️ My image classification projects: 
 
@@ -147,6 +139,7 @@ Welcome to my GitHub profile! I am a computer vision junior engineer with a back
  </table>
 
 ### 📫 Where to find me
-- [LinkedIn](https://www.linkedin.com/in/mohamed-amine-ben-abdeljelil-86a41a1a9/) 👨💼
-- Mail : mohamedamine.benabdeljelil@insat.ucar.tn -- mohamedamine.benabdeljelil@insat.u-carthage.tn
+- LinkedIn : [Mohamed Amine Ben Abdeljelil](https://www.linkedin.com/in/mohamed-amine-ben-abdeljelil-86a41a1a9/) 👨💼
+- E-Mails : mohamedamine.benabdeljelil@insat.ucar.tn -- medamine.benabdeljelil.99@gmail.com
+
 
