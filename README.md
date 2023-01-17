@@ -32,7 +32,18 @@ Welcome to my GitHub profile! I am a computer vision junior engineer with a back
 </p>
 
 
-### ⚙️ My Projects:
+### ⚙️ My image classification projects: 
+
+* [Birds-450-species-image-classification](https://github.com/mohamedamine99/Birds-450-species-image-classification)
+* [Transfer Learning with MobileNetV2 for Cats vs Dogs Image Classification](https://github.com/mohamedamine99/Transfer-Learning-with-MobileNetV2-for-Cats-vs-Dogs-Image-Classification)
+* [INTEL landscape classification](https://github.com/mohamedamine99/INTEL-landscape-classification)
+* [Keras CNN cats vs dogs image classification](https://github.com/mohamedamine99/Keras-CNN-cats-vs-dogs-image-classification)
+* [MNIST Digits and Fashion CNN image classifiers](https://github.com/mohamedamine99/MNIST-Digits-and-Fashion-CNN-image-classifiers)
+* [Building a simple Neural Network from scratch](https://github.com/mohamedamine99/Neural-Network-from-scratch)
+
+
+### 📖 My old projects:
+
 * [Virtual Painter Using OpenCV and Hand Detection](https://github.com/mohamedamine99/Virtual-Painter-Using-OpenCV-and-Hand-Detection)
 * [Mini-Game-with-hand-gesture-and-opencv](https://github.com/mohamedamine99/Ninja-Fruit-Like-Game-with-hand-gesture-and-opencv)
 * [Neural-Network-from-scratch-using-Python](https://github.com/mohamedamine99/Neural-Network-from-scratch)
