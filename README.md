@@ -44,13 +44,13 @@ Please feel free to check out my projects and contributions, and let me know if 
 * [Sensor-data-visualization-with-esp32-and-python](https://github.com/mohamedamine99/Sensor-data-visualization-with-esp32-and-python)
 
 ### 💻 What I'm currently working on
-- Image Classifiers
-- Object Detection
-- GANs : Generative Adversarial Networks
+- Image Classification.
+- Object Detection.
+- GANs : Generative Adversarial Networks.
 
 ### 📖 What I'm currently learning
-- Deep Learning and image processing with Python
-- Automation with Python
+- Deep Learning and image processing with Python, tensorflow and keras.
+- Automation with Python.
 
 ### ⌨️ Programming languages I'm currently using:
 <!--
