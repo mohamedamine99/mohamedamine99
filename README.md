@@ -80,7 +80,7 @@ Please feel free to check out my projects and contributions, and let me know if 
  </table>
 
 ### 🛠️ Tools I'm using:
- * ** ML FrameWorks & Libraries** :
+ * **ML FrameWorks & Libraries** :
   <table>
   <tr>
      <td>Tensorflow</td>
