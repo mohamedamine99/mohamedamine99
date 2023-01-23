@@ -45,7 +45,7 @@ Please feel free to check out my projects and contributions, and let me know if 
 
 ### 💻 What I'm currently working on
 - Image Classification.
-- Object Detection.
+- Object Detection using YOLO algorithms.
 - GANs : Generative Adversarial Networks.
 
 ### 📖 What I'm currently learning
