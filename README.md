@@ -80,23 +80,19 @@ Please feel free to check out my projects and contributions, and let me know if 
  </table>
 
 ### 🛠️ Tools I'm using:
- * **FrameWorks & Libraries** :
+ * ** ML FrameWorks & Libraries** :
   <table>
   <tr>
-     <td>OpenCV</td>
-     <td>Mediapipe</td>
-     <td>Numpy</td>
-     <td>FireBase</td>
-     <td>Free RTOS</td>
-     <td>Matplotlib</td>
+     <td>Tensorflow</td>
+     <td>Keras</td>
+     <td>Scikit-learn</td>
+
   </tr>
   <tr>
-    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/opencv%20logo.png" width=70></td>
-    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/t%C3%A9l%C3%A9chargement.png" width=70></td>
-    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/numpy%20logo.png" width=70></td>
-    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/firebase.png" width=70></td>
-    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/FreeRTOS.png" width=80></td>
-    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/matplotlib.png" width=80></td>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/tensorflow.png" width=70></td>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/2048px-Keras_logo.svg.png" width=70></td>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/1200px-Scikit_learn_logo_small.svg.png" width=70></td>
+
   </tr>
  </table>
 
