@@ -89,7 +89,7 @@ Please feel free to check out my projects and contributions, and let me know if 
 
   </tr>
   <tr>
-    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/tensorflow.png" width=70></td>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/tensorflow_.png" width=70></td>
     <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/2048px-Keras_logo.svg.png" width=70></td>
     <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/1200px-Scikit_learn_logo_small.svg.png" width=70></td>
 
