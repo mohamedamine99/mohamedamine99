@@ -55,27 +55,26 @@ Please feel free to check out my projects and contributions, and let me know if 
 ### ⌨️ Programming languages I'm currently using:
 <!--
 <p float="left">
+  <img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/python.png" width="8%" /> 
+   &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/Cpp.png" width="55" />
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/c_48x48.png" width="65" /> 
   &nbsp; &nbsp; &nbsp; &nbsp;   
-  <img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/python.png" width="8%" /> 
-   &nbsp; &nbsp; &nbsp; &nbsp;
+
 </p>
 -->
 
 <table>
   <tr>
-     <td>C++</td>
+    <td>Python</td>
+    <td>C++</td>
     <td>C</td>
-     <td>Python</td>
-     <td>VHDL</td>
   </tr>
   <tr>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/python.png" width=70></td>
     <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/Cpp.png" width=55></td>
     <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/c_48x48.png" width=65></td>
-    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/python.png" width=70></td>
-    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/vhdl%20logo.jpg" width=70></td>
   </tr>
  </table>
 
