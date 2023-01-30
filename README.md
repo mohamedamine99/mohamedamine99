@@ -24,9 +24,12 @@ Welcome to my GitHub profile! I am a computer vision junior engineer with a back
 I am always eager to learn new technologies and techniques, and I am excited to continue growing as a developer in this field.   
 Please feel free to check out my projects and contributions, and let me know if you have any questions or comments.
 
+### 🔎 My object detecttion projects: 
+* [Facial recognition with python dlib module](https://github.com/mohamedamine99/Facial-recognition-with-dlib)
+
 ### ⚙️ My image classification projects: 
 
-* [Birds-450-species-image-classification](https://github.com/mohamedamine99/Birds-450-species-image-classification)
+* [Birds 450 species image classification](https://github.com/mohamedamine99/Birds-450-species-image-classification)
 * [Transfer Learning with MobileNetV2 for Cats vs Dogs Image Classification](https://github.com/mohamedamine99/Transfer-Learning-with-MobileNetV2-for-Cats-vs-Dogs-Image-Classification)
 * [INTEL landscape classification](https://github.com/mohamedamine99/INTEL-landscape-classification)
 * [Keras CNN cats vs dogs image classification](https://github.com/mohamedamine99/Keras-CNN-cats-vs-dogs-image-classification)
