@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mohamed Amine </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/imkashyap/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/mohamed-amine-ben-abdeljelil-86a41a1a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="mailto:mohamedamine.benabdeljelil@insat.ucar.tn"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedamine99&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedamine99&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22mohamedamine99" /> </p>
 
 
 <h3 align="center">I am a computer vision junior engineer with a background in embedded software development.</h3>
@@ -32,11 +32,18 @@ Welcome to my GitHub profile! I am a computer vision junior engineer with a back
 I am always eager to learn new technologies and techniques, and I am excited to continue growing as a developer in this field.   
 Please feel free to check out my projects and contributions, and let me know if you have any questions or comments.
 
-### 🔎 My object detection projects: 
+### ⚙️ My Projects: 
+<details>
+  
+  <summary><b>🔎 My object detection projects: </b></summary>
+
 * [Real-time facial recognition with python dlib](https://github.com/mohamedamine99/Real-time-facial-recognition-with-python-dlib)
 * [Facial recognition with python dlib module](https://github.com/mohamedamine99/Facial-recognition-with-dlib)
+  
+</details>	
 
-### ⚙️ My image classification projects: 
+<details>
+  <summary><b>⚙️ My image classification projects:: </b></summary>
 
 * [Birds 450 species image classification](https://github.com/mohamedamine99/Birds-450-species-image-classification)
 * [Transfer Learning with MobileNetV2 for Cats vs Dogs Image Classification](https://github.com/mohamedamine99/Transfer-Learning-with-MobileNetV2-for-Cats-vs-Dogs-Image-Classification)
@@ -44,16 +51,19 @@ Please feel free to check out my projects and contributions, and let me know if 
 * [Keras CNN cats vs dogs image classification](https://github.com/mohamedamine99/Keras-CNN-cats-vs-dogs-image-classification)
 * [MNIST Digits and Fashion CNN image classifiers](https://github.com/mohamedamine99/MNIST-Digits-and-Fashion-CNN-image-classifiers)
 * [Building a simple Neural Network from scratch](https://github.com/mohamedamine99/Neural-Network-from-scratch)
+</details>	
 
 
-### 📖 My old projects:
-
+<details>
+  <summary><b>📖 My old projects: </b></summary>
+  
 * [Virtual Painter Using OpenCV and Hand Detection](https://github.com/mohamedamine99/Virtual-Painter-Using-OpenCV-and-Hand-Detection)
 * [Mini-Game-with-hand-gesture-and-opencv](https://github.com/mohamedamine99/Ninja-Fruit-Like-Game-with-hand-gesture-and-opencv)
 * [Neural-Network-from-scratch-using-Python](https://github.com/mohamedamine99/Neural-Network-from-scratch)
 * [Esp32 iot temperature and humidity monitoring with firebase real time data-base](https://github.com/mohamedamine99/esp32-iot-temperature-and-humidity-monitoring-with-firebase-real-time-data-base) 
 * [Digital-Lock-with-VHDL-state-machine](https://github.com/mohamedamine99/Digital-Lock-with-VHDL-state-machine)
 * [Sensor-data-visualization-with-esp32-and-python](https://github.com/mohamedamine99/Sensor-data-visualization-with-esp32-and-python)
+</details>	
 
 ### 💻 What I'm currently working on
 - Image Classification.
