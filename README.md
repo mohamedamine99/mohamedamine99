@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Mohamed Amine </h1>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/imkashyap/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="mailto:mohamedamine.benabdeljelil@insat.ucar.tn"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedamine99&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
+
+
 <h3 align="center">I am a computer vision junior engineer with a background in embedded software development.</h3>
 
 Welcome to my GitHub profile! I am a computer vision junior engineer with a background in embedded software development. Here you will find a collection of my personal projects and contributions to open-source projects. My expertise lies in utilizing machine learning and computer vision techniques to solve real-world problems. With a solid understanding of embedded systems and proficiency in languages such as C++ and Python, I have experience in developing software for resource-constrained devices.    
