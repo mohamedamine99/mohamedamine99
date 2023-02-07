@@ -157,8 +157,24 @@ Please feel free to check out my projects and contributions, and let me know if 
 ![Spyder](https://img.shields.io/badge/Spyder%20Ide-525252?style=flat&logo=spyder%20ide&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
+![VS studio](https://img.shields.io/badge/Visual_Studio-525252?style=flat&logo=visual%20studio&logoColor=white)
 
 
+
+### 🛠️ Tools and Frameworks : 
+
+- ML frameworks : <code><img height="27" src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/2048px-Keras_logo.svg.png" alt="keras"></code>
+<code><img height="27" src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/tensorflow_.png" alt="tensorflow"></code>
+<code><img height="27" src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn"></code>
+- Other : <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+
+
+### ☄️ Github Streaks : 
+
+ <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedamine99&hide_border=true" />
+</details>
 
 ### 📫 Where to find me
 - LinkedIn : [Mohamed Amine Ben Abdeljelil](https://www.linkedin.com/in/mohamed-amine-ben-abdeljelil-86a41a1a9/) 👨💼
