@@ -32,6 +32,15 @@ Welcome to my GitHub profile! I am a computer vision junior engineer with a back
 I am always eager to learn new technologies and techniques, and I am excited to continue growing as a developer in this field.   
 Please feel free to check out my projects and contributions, and let me know if you have any questions or comments.
 
+<div align="center">  
+<table style="margin: 0 auto; border-style: none; width:100%">
+  <tr>
+    <td><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedamine99&hide_border=true"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamine99&theme=light&hide=jupyter%20notebook&layout=compact"></td>
+  </tr>
+</table>
+</div>
+
 ### ⚙️ My Projects : 
 <details>
   
@@ -170,11 +179,7 @@ Please feel free to check out my projects and contributions, and let me know if 
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 
 
-### ☄️ Github Streaks : 
 
- <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedamine99&hide_border=true" />
-</details>
 
 ### 📫 Where to find me
 - LinkedIn : [Mohamed Amine Ben Abdeljelil](https://www.linkedin.com/in/mohamed-amine-ben-abdeljelil-86a41a1a9/) 👨💼
