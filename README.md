@@ -32,10 +32,10 @@ Welcome to my GitHub profile! I am a computer vision junior engineer with a back
 I am always eager to learn new technologies and techniques, and I am excited to continue growing as a developer in this field.   
 Please feel free to check out my projects and contributions, and let me know if you have any questions or comments.
 
-### ⚙️ My Projects: 
+### ⚙️ My Projects : 
 <details>
   
-  <summary><b>🔎 My object detection projects: </b></summary>
+  <summary><b>🔎 My object detection projects : </b></summary>
 
 * [Real-time facial recognition with python dlib](https://github.com/mohamedamine99/Real-time-facial-recognition-with-python-dlib)
 * [Facial recognition with python dlib module](https://github.com/mohamedamine99/Facial-recognition-with-dlib)
@@ -43,7 +43,7 @@ Please feel free to check out my projects and contributions, and let me know if 
 </details>	
 
 <details>
-  <summary><b>⚙️ My image classification projects:: </b></summary>
+  <summary><b>⚙️ My image classification projects : </b></summary>
 
 * [Birds 450 species image classification](https://github.com/mohamedamine99/Birds-450-species-image-classification)
 * [Transfer Learning with MobileNetV2 for Cats vs Dogs Image Classification](https://github.com/mohamedamine99/Transfer-Learning-with-MobileNetV2-for-Cats-vs-Dogs-Image-Classification)
@@ -55,7 +55,7 @@ Please feel free to check out my projects and contributions, and let me know if 
 
 
 <details>
-  <summary><b>📖 My old projects: </b></summary>
+  <summary><b>📖 My old projects : </b></summary>
   
 * [Virtual Painter Using OpenCV and Hand Detection](https://github.com/mohamedamine99/Virtual-Painter-Using-OpenCV-and-Hand-Detection)
 * [Mini-Game-with-hand-gesture-and-opencv](https://github.com/mohamedamine99/Ninja-Fruit-Like-Game-with-hand-gesture-and-opencv)
@@ -66,27 +66,16 @@ Please feel free to check out my projects and contributions, and let me know if 
 </details>	
 
 ### 💻 What I'm currently working on
-- Image Classification.
-- Object Detection using YOLO algorithms.
+
+- Custom Object Detection using YOLO algorithms.
 - GANs : Generative Adversarial Networks.
 
 ### 📖 What I'm currently learning
 - Deep Learning and image processing with Python, tensorflow and keras.
+- Deep Learning with PyTorch.
 - Automation with Python.
 
-### ⌨️ Programming languages I'm currently using:
 <!--
-<p float="left">
-  <img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/python.png" width="8%" /> 
-   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/Cpp.png" width="55" />
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/c_48x48.png" width="65" /> 
-  &nbsp; &nbsp; &nbsp; &nbsp;   
-
-</p>
--->
-
 <table>
   <tr>
     <td>Python</td>
@@ -155,6 +144,21 @@ Please feel free to check out my projects and contributions, and let me know if 
     <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/solidworks%20logo.jpg" width=120></td>
   </tr>
  </table>
+-->
+### 💻 Programming languages and IDEs : 
+
+- Languages: &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+  ![C](https://img.shields.io/badge/C-3776AB?style=flat&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-3776AB?style=flat&logo=c%2B%2B&logoColor=white)
+  
+- IDEs : &nbsp;
+![PyCharm](https://img.shields.io/badge/PyCharm-525252.svg?&style=flat&logo=PyCharm&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder%20Ide-525252?style=flat&logo=spyder%20ide&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
+
+
 
 ### 📫 Where to find me
 - LinkedIn : [Mohamed Amine Ben Abdeljelil](https://www.linkedin.com/in/mohamed-amine-ben-abdeljelil-86a41a1a9/) 👨💼
