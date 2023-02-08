@@ -250,10 +250,8 @@ Please feel free to check out my projects and contributions, and let me know if 
     <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/esp32.PNG" width=50></td>
   </tr>
  </table>
-
 </details>	
-- Other : <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+
 
 
 
