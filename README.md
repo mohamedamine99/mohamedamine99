@@ -75,10 +75,18 @@ Please feel free to check out my projects and contributions, and let me know if 
 </details>	
 
 ### 💻 What I'm currently working on
+<details>
+  
+  <summary><b> 📌 Maintaining and improving my own custom made dlib API for face recognition. : </b></summary>
 
-* Maintaining and improving my own custom made dlib API for face recognition.
-* Training and deploying a real-time custom object detector.
-* Creating AR interactive video games with Unity 3D and hand gestures.
+* Adding KNN algorithm for facial features search to reduce search time and improve precision when dealing with large csv files.
+* Adding more database functionnalities.
+* Adding object tracking functionnalities to increase inference.
+  
+</details>	
+
+📌 Training and deploying a real-time custom object detector.  
+📌 Creating AR interactive video games with Unity 3D and hand gestures.
 
 ### 📖 What I'm currently learning
 - Custom Object Detection using YOLO algorithms.
