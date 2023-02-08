@@ -76,10 +76,13 @@ Please feel free to check out my projects and contributions, and let me know if 
 
 ### 💻 What I'm currently working on
 
-- Custom Object Detection using YOLO algorithms.
-- GANs : Generative Adversarial Networks.
+* Maintaining and improving my own custom made dlib API for face recognition.
+* Training and deploying a real-time custom object detector.
+* Creating AR interactive video games with Unity 3D and hand gestures.
 
 ### 📖 What I'm currently learning
+- Custom Object Detection using YOLO algorithms.
+- GANs : Generative Adversarial Networks.
 - Deep Learning and image processing with Python, tensorflow and keras.
 - Deep Learning with PyTorch.
 - Automation with Python.
@@ -171,12 +174,86 @@ Please feel free to check out my projects and contributions, and let me know if 
 
 
 ### 🛠️ Tools and Frameworks : 
+<details>
+  <summary><b> 📚 ML frameworks : </b></summary>
+  
+<table>
+  <tr>
+    <td>Tensorflow</td>
+    <td>Keras</td>
+    <td>Scikit-learn</td>     
+    <td>Dlib</td>
+  </tr>
+  <tr>
+    <td><code><img height="30" src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/tensorflow_.png" alt="tensorflow"></code></td>
+    <td><code><img height="30" src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/2048px-Keras_logo.svg.png" alt="keras"></code></td>
+    <td><code><img height="30" src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn"></code></td>
+    <td><code><img height="30" src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/Dlib.png" alt="Dlib"></code></td>
+  </tr>
+ </table>
 
-- ML frameworks : <code><img height="27" src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/2048px-Keras_logo.svg.png" alt="keras"></code>
-<code><img height="27" src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/tensorflow_.png" alt="tensorflow"></code>
-<code><img height="27" src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn"></code>
-- Other : <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+</details>	
+
+<details>
+  <summary><b> :chart_with_upwards_trend:	 Data visualization and image processing : </b></summary>
+  
+<table>
+  <tr>
+    <td>Matplotlib</td>
+    <td>OpenCV</td>
+    <td>Pillow</td>     
+    <td>Pandas</td>
+    <td>Numpy</td>
+  </tr>
+  <tr>
+    <td><code><img height="70" src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/matplotlib.png" alt="matplotlib"></code></td>
+    <td><code><img height="50" src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/opencv%20logo.png" alt="OpenCV"></code></td>
+    <td><code><img height="50" src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/pillow-logo.png" alt="Pillow"></code></td>
+    <td><code><img height="70" src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/pandas-logo.png" alt="Pandas"></code></td>
+    <td><code><img height="50" src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/numpy%20logo.png" alt="numpy"></code></td>
+  </tr>
+ </table>
+
+</details>	
+
+
+<details>
+  <summary><b> :octocat: Version control : </b></summary>
+  
+<table>
+  <tr>
+    <td>Git</td>
+    <td>Github</td>
+  </tr>
+  <tr>
+    <td><code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code></td>
+    <td><code><img height="35" src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/github%20logo.png" alt="github"></code></td>
+
+  </tr>
+ </table>
+
+</details>	
+
+<details>
+  <summary><b> :electric_plug: Development boards : </b></summary>
+  
+<table>
+<table>
+  <tr>
+    <td>STM32</td>
+     <td>Arduino</td>
+     <td>Esp32</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/stm32.PNG" width=50></td>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/arduino.jpg" width=60></td>
+    <td><img src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/esp32.PNG" width=50></td>
+  </tr>
+ </table>
+
+</details>	
+- Other : <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 
 
 
