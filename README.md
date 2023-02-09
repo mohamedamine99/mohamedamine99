@@ -77,11 +77,12 @@ Please feel free to check out my projects and contributions, and let me know if 
 ### 💻 What I'm currently working on
 <details>
   
-  <summary><b> 📌 Maintaining and improving my own custom made dlib API for face recognition. : </b></summary>
+  <summary><b> 📌 Maintaining and improving my own custom made dlib API for face recognition: </b></summary>
 
-* Adding KNN algorithm for facial features search to reduce search time and improve precision when dealing with large csv files.
+* Improving error handling.
+* Adding KNN algorithm for facial features search to reduce search time and improve recognition precision when dealing with large csv files.
 * Adding more database functionnalities.
-* Adding object tracking functionnalities to increase inference.
+* Adding object tracking functionnalities to increase frame processing speed.
   
 </details>	
 
