@@ -53,11 +53,11 @@ Please feel free to check out my projects and contributions, and let me know if 
 
 <details>
   <summary><b>⚙️ My image classification projects : </b></summary>
-
+  
+* [Keras CNN cats vs dogs image classification](https://github.com/mohamedamine99/Keras-CNN-cats-vs-dogs-image-classification)
 * [Birds 450 species image classification](https://github.com/mohamedamine99/Birds-450-species-image-classification)
 * [Transfer Learning with MobileNetV2 for Cats vs Dogs Image Classification](https://github.com/mohamedamine99/Transfer-Learning-with-MobileNetV2-for-Cats-vs-Dogs-Image-Classification)
 * [INTEL landscape classification](https://github.com/mohamedamine99/INTEL-landscape-classification)
-* [Keras CNN cats vs dogs image classification](https://github.com/mohamedamine99/Keras-CNN-cats-vs-dogs-image-classification)
 * [MNIST Digits and Fashion CNN image classifiers](https://github.com/mohamedamine99/MNIST-Digits-and-Fashion-CNN-image-classifiers)
 * [Building a simple Neural Network from scratch](https://github.com/mohamedamine99/Neural-Network-from-scratch)
 </details>	
