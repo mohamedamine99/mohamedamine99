@@ -54,6 +54,7 @@ Please feel free to check out my projects and contributions, and let me know if 
 <details>
   <summary><b>⚙️ My image classification projects : </b></summary>
   
+* [Visualizing what convnets learn](https://github.com/mohamedamine99/Visualizing-what-convnets-learn)
 * [Keras CNN cats vs dogs image classification](https://github.com/mohamedamine99/Keras-CNN-cats-vs-dogs-image-classification)
 * [Birds 450 species image classification](https://github.com/mohamedamine99/Birds-450-species-image-classification)
 * [Transfer Learning with MobileNetV2 for Cats vs Dogs Image Classification](https://github.com/mohamedamine99/Transfer-Learning-with-MobileNetV2-for-Cats-vs-Dogs-Image-Classification)
