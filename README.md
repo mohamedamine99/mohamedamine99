@@ -44,6 +44,14 @@ Please feel free to check out my projects and contributions, and let me know if 
 ### ⚙️ My Projects : 
 <details>
   
+  <summary><b>🔬 My model exploration projects : </b></summary>
+
+* [Visualizing what convnets learn](https://github.com/mohamedamine99/Visualizing-what-convnets-learn)
+  
+</details>	
+
+<details>
+  
   <summary><b>🔎 My object detection projects : </b></summary>
 
 * [Real-time facial recognition with python dlib](https://github.com/mohamedamine99/Real-time-facial-recognition-with-python-dlib)
