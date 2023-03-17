@@ -55,6 +55,7 @@ Please feel free to check out my projects and contributions, and let me know if 
   
   <summary><b>🔎 My object detection projects : </b></summary>
   
+* [YOLOv5 object detection](https://github.com/mohamedamine99/YOLOv5-object-detection)
 * [YOLOv3 simple object detection](https://github.com/mohamedamine99/YOLOv3-simple-object-detection)
 * [Real-time facial recognition with python dlib](https://github.com/mohamedamine99/Real-time-facial-recognition-with-python-dlib)
 * [Facial recognition with python dlib module](https://github.com/mohamedamine99/Facial-recognition-with-dlib)
