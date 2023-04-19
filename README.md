@@ -55,6 +55,7 @@ Please feel free to check out my projects and contributions, and let me know if 
   
   <summary><b>🔎 My object detection projects : </b></summary>
   
+* [YOLOv8 Custom Object Detection](https://github.com/mohamedamine99/YOLOv8-custom-object-detection)
 * [YOLOv8 Object Detection, Tracking and Counting](https://github.com/mohamedamine99/Object-tracking-and-counting-using-YOLOV8)
 * [YOLOv5 Object Detection](https://github.com/mohamedamine99/YOLOv5-object-detection)
 * [YOLOv3 Simple Object Detection](https://github.com/mohamedamine99/YOLOv3-simple-object-detection)
