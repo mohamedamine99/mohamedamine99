@@ -36,7 +36,7 @@ Please feel free to check out my projects and contributions, and let me know if 
 <table style="margin: 0 auto; border-style: none; width:100%">
   <tr>
     <td><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedamine99&hide_border=true"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamine99&theme=light&hide=jupyter%20notebook&layout=compact"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamine99&theme=light&hide=jupyter%20notebook"></td>
   </tr>
 </table>
 </div>
