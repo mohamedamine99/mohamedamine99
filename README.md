@@ -32,15 +32,20 @@ Welcome to my GitHub profile! I am a computer vision junior engineer with a back
 I am always eager to learn new technologies and techniques, and I am excited to continue growing as a developer in this field.   
 Please feel free to check out my projects and contributions, and let me know if you have any questions or comments.
 
+
+
 <div align="center">  
 <table style="margin: 0 auto; border-style: none; width:100%">
   <tr>
     <td><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedamine99&hide_border=true"></td>
        <td><img src="https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=mohamedamine99&layout=compact&theme=light&hide=jupyter%20notebook"></td>
-  </tr>
+  </tr> 
 </table>
 </div>
 
+<p align="center">
+<img src="https://github-readme-stats-two-nu-79.vercel.app/api?username=mohamedamine99&show_icons=true&bg_color=00000000">
+</p>
 
 
 
