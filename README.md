@@ -44,7 +44,7 @@ Please feel free to check out my projects and contributions, and let me know if 
 </div>
 
 <p align="center">
-<img src="https://github-readme-stats-two-nu-79.vercel.app/api?username=mohamedamine99&show_icons=true&bg_color=00000001">
+<img src="https://github-readme-stats-two-nu-79.vercel.app/api?username=mohamedamine99&show_icons=true&bg_color=00000002">
 </p>
 
 
