@@ -1,21 +1,4 @@
 
-
-<!--
-### Hi there 👋
-**mohamedamine99/mohamedamine99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Mohamed Amine </h1>
 
 <p align="center">
@@ -54,7 +37,10 @@ Please feel free to check out my projects and contributions, and let me know if 
   
   <summary><b>🔬 My model exploration projects : </b></summary>
 
-* [Visualizing what convnets learn](https://github.com/mohamedamine99/Visualizing-what-convnets-learn)
+* [Visualizing what convnets learn :](https://github.com/mohamedamine99/Visualizing-what-convnets-learn)
+  * [Visualizing Filters of a CNN](https://github.com/mohamedamine99/Visualizing-what-convnets-learn/tree/main/Visualizing%20Filters%20of%20a%20CNN)
+  * [Visualizing heatmaps of class activation in an image](https://github.com/mohamedamine99/Visualizing-what-convnets-learn/tree/main/Visualizing%20heatmaps%20of%20class%20activation%20in%20an%20image)
+  * [Visualizing intermediate layers activations](https://github.com/mohamedamine99/Visualizing-what-convnets-learn/tree/main/visualizing%20intermediate%20layers%20activations)
   
 </details>	
 
