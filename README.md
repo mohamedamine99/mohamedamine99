@@ -33,6 +33,15 @@ Please feel free to check out my projects and contributions, and let me know if 
 
 
 ### ⚙️ My Projects : 
+
+<details>
+  
+  <summary><b>🎨AI Artistic Generation projects: </b></summary>
+  
+* [Neural Style Transfer with Tensorflow and Keras](https://github.com/mohamedamine99/Neural-Style-Transfer-with-Python)
+  
+</details>	
+
 <details>
   
   <summary><b>🔬 My model exploration projects : </b></summary>
