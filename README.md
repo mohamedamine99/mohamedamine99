@@ -59,6 +59,7 @@ Please feel free to check out my projects and contributions, and let me know if 
   
 * [YOLOv8 Custom Object Detection](https://github.com/mohamedamine99/YOLOv8-custom-object-detection)
 * [YOLOv8 Object Detection, Tracking and Counting](https://github.com/mohamedamine99/Object-tracking-and-counting-using-YOLOV8)
+* [Deploying a YOLOv3 Object Detection model with FastAPI](https://github.com/mohamedamine99/Object-Detection-with-YOLOv3-and-FastAPI)
 * [YOLOv5 Object Detection](https://github.com/mohamedamine99/YOLOv5-object-detection)
 * [YOLOv3 Simple Object Detection](https://github.com/mohamedamine99/YOLOv3-simple-object-detection)
 * [Real-time Facial Recognition with Python Dlib](https://github.com/mohamedamine99/Real-time-facial-recognition-with-python-dlib)
