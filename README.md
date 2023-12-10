@@ -16,7 +16,7 @@ I am always eager to learn new technologies and techniques, and I am excited to 
 Please feel free to check out my projects and contributions, and let me know if you have any questions or comments.
 
 
-
+<!--  Commented Stats cards ********************************************
 <div align="center">  
 <table style="margin: 0 auto; border-style: none; width:100%">
   <tr>
@@ -30,6 +30,48 @@ Please feel free to check out my projects and contributions, and let me know if 
 <img src="https://github-readme-stats-two-nu-79.vercel.app/api?username=mohamedamine99&show_icons=true&theme=transparent">
 </p>
 
+Commented stats card *****************************************************  -->
+<!--
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=mohamedamine99&layout=compact&show_icons=true&hide=jupyter%20notebook&theme=dark#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img src="https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=mohamedamine99&layout=compact&show_icons=true&hide=jupyter%20notebook&theme=light#gh-light-mode-only&hide=jupyter%20notebook" alt="Anurag's GitHub stats-Light">
+  </a>
+</p>
+-->
+
+<p align="center">
+
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats-two-nu-79.vercel.app/api?username=mohamedamine99&show_icons=true&theme=dark#gh-dark-mode-only" alt="mohamedamine99's GitHub stats-Dark" height="180">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img src="https://github-readme-stats-two-nu-79.vercel.app/api?username=mohamedamine99&show_icons=true&theme=default#gh-light-mode-only" alt="mohamedamine99's GitHub stats-Light" height="180">
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedamine99&show_icons=true&theme=dark#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark" height="180">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedamine99&show_icons=true&theme=default#gh-light-mode-only" alt="Anurag's GitHub stats-Light" height="180">
+  </a>
+
+  
+
+
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=mohamedamine99&layout=compact&show_icons=true&hide=jupyter%20notebook&theme=dark#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark" height="150">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img src="https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=mohamedamine99&layout=compact&show_icons=true&hide=jupyter%20notebook&theme=light#gh-light-mode-only&hide=jupyter%20notebook" alt="Anurag's GitHub stats-Light" height="150">
+  </a>
+</p>
 
 
 ### ⚙️ My Projects : 
