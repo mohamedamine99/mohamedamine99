@@ -45,10 +45,10 @@ Commented stats card *****************************************************  -->
 <p align="center">
 
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats-two-nu-79.vercel.app/api?username=mohamedamine99&show_icons=true&theme=dark#gh-dark-mode-only" alt="mohamedamine99's GitHub stats-Dark" height="150">
+    <img src="https://github-readme-stats-two-nu-79.vercel.app/api?username=mohamedamine99&show=discussions_answered&hide=contribs,prs&show_icons=true&theme=dark#gh-dark-mode-only" alt="mohamedamine99's GitHub stats-Dark" height="150">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats-two-nu-79.vercel.app/api?username=mohamedamine99&show_icons=true&theme=default#gh-light-mode-only" alt="mohamedamine99's GitHub stats-Light" height="150">
+    <img src="https://github-readme-stats-two-nu-79.vercel.app/api?username=mohamedamine99&show=discussions_answered&hide=contribs,prs&show_icons=true&theme=default#gh-light-mode-only" alt="mohamedamine99's GitHub stats-Light" height="150">
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
