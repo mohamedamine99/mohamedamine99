@@ -30,7 +30,14 @@ Please feel free to check out my projects and contributions, and let me know if 
 <img src="https://github-readme-stats-two-nu-79.vercel.app/api?username=mohamedamine99&show_icons=true&bg_color=00000002">
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohamedamine99&show_icons=true&theme=dark#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohamedamine99&show_icons=true&theme=default#gh-light-mode-only" alt="Anurag's GitHub stats-Light">
+  </a>
+</p>
 
 ### ⚙️ My Projects : 
 
