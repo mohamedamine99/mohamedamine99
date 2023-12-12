@@ -264,7 +264,7 @@ Commented stats card *****************************************************  -->
 </details>	
 
 <details>
-  <summary><b> :chart_with_upwards_trend:	 Data visualization and image processing : </b></summary>
+  <summary><b> 📊 Data visualization and image processing : </b></summary>
   
 <table>
   <tr>
@@ -287,7 +287,7 @@ Commented stats card *****************************************************  -->
 
 
 <details>
-  <summary><b> :octocat: Version control : </b></summary>
+  <summary><b> ♻️ Version control : </b></summary>
   
 <table>
   <tr>
@@ -304,7 +304,7 @@ Commented stats card *****************************************************  -->
 </details>	
 
 <details>
-  <summary><b> :electric_plug: Development boards : </b></summary>
+  <summary><b> 💻 Development boards : </b></summary>
   
 <table>
 <table>
