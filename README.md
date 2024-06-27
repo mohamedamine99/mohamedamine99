@@ -78,7 +78,7 @@ Commented stats card *****************************************************  -->
 
 <details>
   
-  <summary><b>🎨AI Artistic Generation projects: </b></summary>
+  <summary><b>🎨AI Artistic Generation : </b></summary>
   
 * [Neural Style Transfer with Tensorflow and Keras](https://github.com/mohamedamine99/Neural-Style-Transfer-with-Python)
   
@@ -86,7 +86,7 @@ Commented stats card *****************************************************  -->
 
 <details>
   
-  <summary><b>🔬 My model exploration projects : </b></summary>
+  <summary><b>🔬 Model exploration : </b></summary>
 
 * [Visualizing what convnets learn :](https://github.com/mohamedamine99/Visualizing-what-convnets-learn)
   * [Visualizing Filters of a CNN](https://github.com/mohamedamine99/Visualizing-what-convnets-learn/tree/main/Visualizing%20Filters%20of%20a%20CNN)
@@ -97,7 +97,7 @@ Commented stats card *****************************************************  -->
 
 <details>
   
-  <summary><b>🔎 My object detection projects : </b></summary>
+  <summary><b>🔎 Object detection : </b></summary>
   
 * [YOLOv8 Custom Object Detection](https://github.com/mohamedamine99/YOLOv8-custom-object-detection)
 * [YOLOv8 Object Detection, Tracking and Counting](https://github.com/mohamedamine99/Object-tracking-and-counting-using-YOLOV8)
@@ -110,7 +110,7 @@ Commented stats card *****************************************************  -->
 </details>	
 
 <details>
-  <summary><b>⚙️ My image classification projects : </b></summary>
+  <summary><b>⚙️ Image classification : </b></summary>
   
 * [Visualizing what convnets learn](https://github.com/mohamedamine99/Visualizing-what-convnets-learn)
 * [Keras CNN cats vs dogs image classification](https://github.com/mohamedamine99/Keras-CNN-cats-vs-dogs-image-classification)
@@ -147,6 +147,7 @@ Commented stats card *****************************************************  -->
 
 📌 Training and deploying a real-time custom object detector.  
 📌 Creating AR interactive video games with Unity 3D and hand gestures.
+<!--
 
 ### 📖 What I'm currently learning
 - Custom Object Detection using YOLO algorithms.
@@ -155,6 +156,8 @@ Commented stats card *****************************************************  -->
 - MLOps.
 - GANs : Generative Adversarial Networks.
 - Automation with Python.
+-->
+
 
 <!--
 <table>
