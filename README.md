@@ -251,12 +251,14 @@ Commented stats card *****************************************************  -->
   
 <table>
   <tr>
-    <td>Tensorflow</td>
+    <td>PyTorch</td>
+    <td>TensorFlow</td>
     <td>Keras</td>
     <td>Scikit-learn</td>     
     <td>Dlib</td>
   </tr>
   <tr>
+    <td><code><img height="30" src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/496px-PyTorch_logo_icon.png" alt="pytorch"></code></td>
     <td><code><img height="30" src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/tensorflow_.png" alt="tensorflow"></code></td>
     <td><code><img height="30" src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/2048px-Keras_logo.svg.png" alt="keras"></code></td>
     <td><code><img height="30" src="https://github.com/mohamedamine99/mohamedamine99/blob/main/Icons/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn"></code></td>
