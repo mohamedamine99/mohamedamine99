@@ -86,7 +86,7 @@ Commented stats card *****************************************************  -->
 
 <details>
   
-  <summary><b>🔬 Model exploration : </b></summary>
+  <summary><b>🔬 Model Exploration and AI Explainability: </b></summary>
 
 * [Visualizing what convnets learn :](https://github.com/mohamedamine99/Visualizing-what-convnets-learn)
   * [Visualizing Filters of a CNN](https://github.com/mohamedamine99/Visualizing-what-convnets-learn/tree/main/Visualizing%20Filters%20of%20a%20CNN)
@@ -97,7 +97,7 @@ Commented stats card *****************************************************  -->
 
 <details>
   
-  <summary><b>🔎 Object detection : </b></summary>
+  <summary><b>🔎 Object Detection : </b></summary>
   
 * [YOLOv8 Custom Object Detection](https://github.com/mohamedamine99/YOLOv8-custom-object-detection)
 * [YOLOv8 Object Detection, Tracking and Counting](https://github.com/mohamedamine99/Object-tracking-and-counting-using-YOLOV8)
@@ -110,7 +110,7 @@ Commented stats card *****************************************************  -->
 </details>	
 
 <details>
-  <summary><b>⚙️ Image classification : </b></summary>
+  <summary><b>⚙️ Image Classification : </b></summary>
   
 * [Visualizing what convnets learn](https://github.com/mohamedamine99/Visualizing-what-convnets-learn)
 * [Keras CNN cats vs dogs image classification](https://github.com/mohamedamine99/Keras-CNN-cats-vs-dogs-image-classification)
