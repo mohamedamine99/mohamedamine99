@@ -133,20 +133,31 @@ Commented stats card *****************************************************  -->
 * [Sensor-data-visualization-with-esp32-and-python](https://github.com/mohamedamine99/Sensor-data-visualization-with-esp32-and-python)
 </details>	
 
+ 
+
 ### 💻 What I'm currently working on
+
+
 <details>
-  
-  <summary><b> 📌 Maintaining and improving my own custom made dlib functions for face recognition: </b></summary>
+  <summary><b>📌 Leveraging Computer Vision and Deep Learning for Retail:</b></summary>
 
-* Adding more exception handling features .
-* Adding KNN algorithm for facial features search to reduce search time and improve recognition precision when dealing with large csv files.
-* Adding more database functionnalities.
-* Adding object tracking functionnalities to increase frame processing speed and overall FPS througput.
-  
-</details>	
+  * Developing and Implementing Algorithms for Suspicious Action Detection.
+  * Developing and Implementing Algorithms for Automated Security Solutions for CCTV-based systems.
+</details>
+<details>
+  <summary><b>📌 Maintaining and improving my own custom made dlib functions for face recognition:</b></summary>
 
+  * Adding more exception handling features.
+  * Adding KNN algorithm for facial features search to reduce search time and improve recognition precision when dealing with large CSV files.
+  * Adding more database functionalities.
+  * Adding object tracking functionalities to increase frame processing speed and overall FPS throughput.
+</details>
+
+📌 Building Neural Networks from scratch.  
 📌 Training and deploying a real-time custom object detector.  
 📌 Creating AR interactive video games with Unity 3D and hand gestures.
+
+
 <!--
 
 ### 📖 What I'm currently learning
