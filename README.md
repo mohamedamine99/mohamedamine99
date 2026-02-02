@@ -41,36 +41,49 @@ Commented stats card *****************************************************  -->
   </a>
 </p>
 -->
-
+<!-- GitHub Profile Stats Cards with Dark/Light Mode Support -->
 <p align="center">
   <!-- GitHub Stats Card (Dark & Light Mode) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats-9pxk0t94q-mohamed-amines-projects-48cb97ce.vercel.app/api?username=mohamedamine99&show=discussions_answered&hide=contribs,prs&show_icons=true&theme=dark#gh-dark-mode-only" alt="mohamedamine99's GitHub stats-Dark" height="130px">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats-9pxk0t94q-mohamed-amines-projects-48cb97ce.vercel.app/api?username=mohamedamine99&show=discussions_answered&hide=contribs,prs&show_icons=true&theme=default#gh-light-mode-only" alt="mohamedamine99's GitHub stats-Light" height="130px">
-  </a>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=mohamedamine99&show_icons=true&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=mohamedamine99&show_icons=true&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=mohamedamine99&show_icons=true" alt="mohamedamine99's GitHub stats" />
+  </picture>
 
   <!-- Streak Stats Card (Dark & Light Mode) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats-9pxk0t94q-mohamed-amines-projects-48cb97ce.vercel.app/api/streak?user=mohamedamine99&show_icons=true&theme=dark#gh-dark-mode-only" alt="mohamedamine99's Streak-Dark" height="130px">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats-9pxk0t94q-mohamed-amines-projects-48cb97ce.vercel.app/api/streak?user=mohamedamine99&show_icons=true&theme=default#gh-light-mode-only" alt="mohamedamine99's Streak-Light" height="130px">
-  </a>
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=mohamedamine99&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=mohamedamine99&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedamine99" alt="mohamedamine99's Streak" />
+  </picture>
 </p>
 
 <p align="center">
   <!-- Top Languages Card (Dark & Light Mode) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats-9pxk0t94q-mohamed-amines-projects-48cb97ce.vercel.app/api/top-langs/?username=mohamedamine99&layout=compact&show_icons=true&hide=jupyter%20notebook&theme=dark#gh-dark-mode-only" alt="mohamedamine99's Top Languages-Dark" height="130px">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats-9pxk0t94q-mohamed-amines-projects-48cb97ce.vercel.app/api/top-langs/?username=mohamedamine99&layout=compact&show_icons=true&hide=jupyter%20notebook&theme=default#gh-light-mode-only" alt="mohamedamine99's Top Languages-Light" height="130px">
-  </a>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamine99&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamine99&layout=compact&theme=default&hide_border=true&hide=jupyter%20notebook"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamine99&layout=compact&hide=jupyter%20notebook" alt="mohamedamine99's Top Languages" />
+  </picture>
 </p>
-
-
 
 ### ⚙️ My Projects : 
 
