@@ -16,6 +16,36 @@ I am always eager to learn new technologies and techniques, and I am excited to 
 Please feel free to check out my projects and contributions, and let me know if you have any questions or comments.
 
 
+<p align="center">
+  <!-- GitHub Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohamedamine99&show_icons=true&theme=dark&hide_border=true" alt="mohamedamine99's GitHub stats-Dark" height="150px" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohamedamine99&show_icons=true&theme=default&hide_border=true" alt="mohamedamine99's GitHub stats-Light" height="150px" />
+  </a>
+
+  <!-- Streak Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedamine99&theme=dark&hide_border=true" alt="mohamedamine99's Streak-Dark" height="150px" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedamine99&theme=default&hide_border=true" alt="mohamedamine99's Streak-Light" height="150px" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamine99&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook" alt="Top Languages-Dark" height="150px" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamine99&layout=compact&theme=default&hide_border=true&hide=jupyter%20notebook" alt="Top Languages-Light" height="150px" />
+  </a>
+</p>
+
+
+
 <!--  Commented Stats cards ********************************************
 <div align="center">  
 <table style="margin: 0 auto; border-style: none; width:100%">
