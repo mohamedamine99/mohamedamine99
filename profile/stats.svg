@@ -1,15 +1,15 @@
 
       <svg
         width="467"
-        height="195"
-        viewBox="0 0 467 195"
+        height="245"
+        viewBox="0 0 467 245"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
         <title id="titleId">Mohamed Amine 's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 221, Total Commits  : 764, Total PRs: 1, Total Issues: 0, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 221, Total Commits  : 765, Total PRs: 1, Total PRs Reviewed: 0, Total Issues: 0, Total Discussions Answered: 0, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 149.4892553387318;
+        stroke-dashoffset: 149.47216397773144;
       }
     }
   
@@ -137,13 +137,16 @@
         >
           
     <g data-testid="rank-circle"
-          transform="translate(390.5, 47.5)">
+          transform="translate(390.5, 72.5)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
           
-        <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          B
+        <text x="-5" y="-12" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="percentile-top-header" class="rank-percentile-header">
+          Top
+        </text>
+        <text x="-5" y="12" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="percentile-rank-value" class="rank-percentile-text">
+          59.5%
         </text>
       
         </g>
@@ -177,7 +180,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >764</text>
+      >765</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -198,6 +201,21 @@
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+      <path fill-rule="evenodd" d="M8 2c1.981 0 3.671.992 4.933 2.078 1.27 1.091 2.187 2.345 2.637 3.023a1.62 1.62 0 0 1 0 1.798c-.45.678-1.367 1.932-2.637 3.023C11.67 13.008 9.981 14 8 14c-1.981 0-3.671-.992-4.933-2.078C1.797 10.83.88 9.576.43 8.898a1.62 1.62 0 0 1 0-1.798c.45-.677 1.367-1.931 2.637-3.022C4.33 2.992 6.019 2 8 2ZM1.679 7.932a.12.12 0 0 0 0 .136c.411.622 1.241 1.75 2.366 2.717C5.176 11.758 6.527 12.5 8 12.5c1.473 0 2.825-.742 3.955-1.715 1.124-.967 1.954-2.096 2.366-2.717a.12.12 0 0 0 0-.136c-.412-.621-1.242-1.75-2.366-2.717C10.824 4.242 9.473 3.5 8 3.5c-1.473 0-2.825.742-3.955 1.715-1.124.967-1.954 2.096-2.366 2.717ZM8 10a2 2 0 1 1-.001-3.999A2 2 0 0 1 8 10Z"/>
+    </svg>
+  
+      <text class="stat  bold" x="25" y="12.5">Total PRs Reviewed:</text>
+      <text
+        class="stat  bold"
+        x="219.01"
+        y="12.5"
+        data-testid="reviews"
+      >0</text>
+    </g>
+  </g><g transform="translate(0, 100)">
+    <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
+      
+    <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
       <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
     </svg>
   
@@ -209,8 +227,23 @@
         data-testid="issues"
       >0</text>
     </g>
-  </g><g transform="translate(0, 100)">
-    <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
+  </g><g transform="translate(0, 125)">
+    <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
+      
+    <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+      <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z" />
+    </svg>
+  
+      <text class="stat  bold" x="25" y="12.5">Total Discussions Answered:</text>
+      <text
+        class="stat  bold"
+        x="219.01"
+        y="12.5"
+        data-testid="discussions_answered"
+      >0</text>
+    </g>
+  </g><g transform="translate(0, 150)">
+    <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
       <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
