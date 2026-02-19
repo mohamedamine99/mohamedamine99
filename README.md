@@ -8,7 +8,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedamine99&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22mohamedamine99" /> </p>
 
 
-![My GitHub Stats](./profile/stats.svg)
+<!-- ![My GitHub Stats](./profile/stats.svg)  -->
+
+
 
 
 <h3 align="center">I am a computer vision engineer with experience in embedded software development.</h3>
@@ -18,7 +20,13 @@ Welcome to my GitHub profile! I am a computer vision engineer with a background 
 I am always eager to learn new technologies and techniques, and I am excited to continue growing as a developer in this field.   
 Please feel free to check out my projects and contributions, and let me know if you have any questions or comments.
 
+  
 
+<div align="center">
+  <img src="./profile/stats.svg" width="450"/>
+</div>
+
+  
 <!--  Commented Stats cards ********************************************
 <div align="center">  
 <table style="margin: 0 auto; border-style: none; width:100%">
