@@ -8,6 +8,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedamine99&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22mohamedamine99" /> </p>
 
 
+![My GitHub Stats](./profile/stats.svg)
+
+
 <h3 align="center">I am a computer vision engineer with experience in embedded software development.</h3>
 
 Welcome to my GitHub profile! I am a computer vision engineer with a background in embedded software development. Here you will find a collection of my personal projects and contributions to open-source projects. My expertise lies in utilizing machine learning and computer vision techniques to solve real-world problems.
