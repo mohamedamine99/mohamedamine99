@@ -1,19 +1,15 @@
-<svg width="600" height="180" xmlns="http://www.w3.org/2000/svg">
-  <defs>
+
+    <svg width="576.5"  height="120" viewBox="0 0 576.5 120" fill="#fffefe" xmlns="http://www.w3.org/2000/svg">
     <style>
-      .bg { fill: #0d1117; }
-      .title { font-size: 28px; font-weight: bold; fill: #58a6ff; font-family: 'Segoe UI', Ubuntu, Sans-Serif; }
-      .label { font-size: 14px; fill: #8b949e; font-family: 'Segoe UI', Ubuntu, Sans-Serif; }
-      .value { font-size: 18px; font-weight: bold; fill: #58a6ff; font-family: 'Segoe UI', Ubuntu, Sans-Serif; }
+    .text { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2f80ed }
+    .small { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58 }
+    .gray { fill: #858585 }
     </style>
-  </defs>
-  <rect class="bg" width="600" height="180"/>
-  <rect x="1" y="1" width="598" height="178" rx="6" fill="none" stroke="#30363d" stroke-width="1"/>
-  <text x="30" y="45" class="title">Mohamed Amine </text>
-  <text x="30" y="70" class="label">I'm a junior computer vision engineer with experience in embedded software development.</text>
+    <rect x="0.5" y="0.5" width="575.5" height="99%" rx="4.5" fill="#fffefe" stroke="#e4e2e2"/>
+    <text x="25" y="45" class="text">Something went wrong! file an issue at https://tiny.one/readme-stats</text>
+    <text data-testid="message" x="25" y="55" class="text small">
+      <tspan x="25" dy="18">Resource not accessible by integration</tspan>
+      <tspan x="25" dy="18" class="gray">OK</tspan>
+    </text>
+    </svg>
   
-  <text x="30" y="115" class="label">📊 Stats</text>
-  <text x="30" y="145" class="value">Repositories: 28</text>
-  <text x="280" y="145" class="value">Followers: 35</text>
-  <text x="30" y="170" class="value">Following: 15</text>
-</svg>
