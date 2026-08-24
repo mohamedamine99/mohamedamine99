@@ -2,11 +2,11 @@ name: Update All GitHub Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Daily at midnight
-  workflow_dispatch: # Manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
-  update-stats:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -22,23 +22,19 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Generate Main Stats Card (Stars, PRs, etc.)
-      - name: Generate main stats
+      # Generate Main Stats
+      - name: Generate main stats card
         run: |
-          # Use the public API but cache it to avoid rate limits
-          curl -H "Cache-Control: no-cache" \
-            "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide_title=true" \
-            > profile/stats.svg
+          curl -s "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide_title=true" > profile/stats.svg
           
-          # Generate top languages card
-          curl "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=transparent&hide_title=true" \
-            > profile/languages.svg
+          # Generate languages card
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=transparent&hide_title=true" > profile/languages.svg
 
-      # Commit all changes
-      - name: Commit and push all stats
+      # Commit everything
+      - name: Commit and push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "chore: update all github stats" || echo "No changes"
+          git commit -m "chore: update all stats" || echo "No changes"
           git push
