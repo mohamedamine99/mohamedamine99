@@ -28,17 +28,37 @@
 #           git push
 
 # .github/workflows/profile-stats.yml
-name: Generate Profile Stats
+name: Update GitHub Stats
+
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Runs automatically every day at midnight UTC
+  workflow_dispatch:    # Allows you to run it manually from the Actions tab
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # ⚠️ CRITICAL: Grants permission to commit and push changes
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: DenverCoder1/github-readme-streak-stats@main
+      - name: Checkout repository
+        uses: actions/checkout@v4 # Upgraded to v4 to fix Node.js 20 deprecation warning
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          user: mohamedamine99
+          # The 'user' parameter must be passed inside 'options' as a query string
+          options: user=${{ github.repository_owner }}&theme=transparent&hide_border=true
+          # Matches the path in your README: <img src="./profile/stats.svg" />
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg
+          # Commit only if there are changes, otherwise exit gracefully
+          git commit -m "chore: update github stats" || echo "No changes to commit"
+          git push
