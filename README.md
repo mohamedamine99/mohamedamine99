@@ -21,11 +21,25 @@ I am always eager to learn new technologies and techniques, and I am excited to 
 Please feel free to check out my projects and contributions, and let me know if you have any questions or comments.
 
   
+### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="./profile/stats.svg" width="450"/>
+  <table>
+    <tr>
+      <td>
+        <img src="./profile/stats.svg" width="400"/>
+      </td>
+      <td>
+        <img src="./profile/streak.svg" width="400"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="./profile/languages.svg" width="800"/>
+      </td>
+    </tr>
+  </table>
 </div>
-
   
 <!--  Commented Stats cards ********************************************
 <div align="center">  
