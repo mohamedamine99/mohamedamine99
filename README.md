@@ -25,25 +25,9 @@ Please feel free to check out my projects and contributions, and let me know if 
 
 
 <div align="center">
-  <table>
-    <tr>
-      <!-- Main Stats Card (Real-time from API) -->
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mohamedamine99&show_icons=true&theme=transparent&hide_title=true&count_private=true" width="400"/>
-      </td>
-      
-      <!-- Streak Stats (From your GitHub Action) -->
-      <td>
-        <img src="./profile/streak.svg" width="400"/>
-      </td>
-    </tr>
-    <tr>
-      <!-- Top Languages (Real-time from API) -->
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamine99&layout=compact&theme=transparent&hide_title=true&count_private=true" width="800"/>
-      </td>
-    </tr>
-  </table>
+  <img src="./profile/stats.svg" width="400"/>
+  <img src="./profile/streak.svg" width="400"/>
+  <img src="./profile/languages.svg" width="800"/>
 </div>
   
 <!--  Commented Stats cards ********************************************
