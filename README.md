@@ -26,8 +26,9 @@ Please feel free to check out my projects and contributions, and let me know if 
 
 <div align="center">
   <img src="./profile/stats.svg" width="400"/>
-  <img src="./profile/streak.svg" width="400"/>
-  <img src="./profile/languages.svg" width="800"/>
+  <!-- <img src="./profile/streak.svg" width="400"/>
+  <img src="./profile/languages.svg" width="800”/> 
+  -->
 </div>
   
 <!--  Commented Stats cards ********************************************
