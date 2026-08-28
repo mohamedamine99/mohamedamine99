@@ -24,11 +24,21 @@ jobs:
 
       # Generate Main Stats
       - name: Generate main stats card
-        run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide_title=true" > profile/stats.svg
-          
-          # Generate languages card
-          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=transparent&hide_title=true" > profile/languages.svg
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide_title=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Generate Languages Card
+      - name: Generate languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=transparent&hide_title=true
+          path: profile/languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # Commit everything
       - name: Commit and push

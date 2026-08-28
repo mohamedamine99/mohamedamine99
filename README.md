@@ -8,11 +8,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedamine99&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22mohamedamine99" /> </p>
 
 
-<!-- ![My GitHub Stats](./profile/stats.svg)  -->
-
-
-
-
 <h3 align="center">I am a computer vision engineer with experience in embedded software development.</h3>
 
 Welcome to my GitHub profile! I am a computer vision engineer with a background in embedded software development. Here you will find a collection of my personal projects and contributions to open-source projects. My expertise lies in utilizing machine learning and computer vision techniques to solve real-world problems.
@@ -25,68 +20,13 @@ Please feel free to check out my projects and contributions, and let me know if 
 
 
 <div align="center">
-  <img src="./profile/stats.svg" width="400"/>
-  <!-- <img src="./profile/streak.svg" width="400"/>
-  <img src="./profile/languages.svg" width="800”/> 
-  -->
-</div>
-  
-<!--  Commented Stats cards ********************************************
-<div align="center">  
-<table style="margin: 0 auto; border-style: none; width:100%">
-  <tr>
-    <td><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedamine99&&theme=transparent&hide_border=true"></td>
-       <td><img src="https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=mohamedamine99&layout=compact&theme=transparent&hide=jupyter%20notebook"></td>
-  </tr> 
-</table>
+  <img src="./profile/stats.svg" width="410"/>
+  <img src="./profile/streak.svg" width="410"/>
 </div>
 
-<p align="center">
-<img src="https://github-readme-stats-two-nu-79.vercel.app/api?username=mohamedamine99&show_icons=true&theme=transparent">
-</p>
-
-Commented stats card *****************************************************  -->
-<!--
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=mohamedamine99&layout=compact&show_icons=true&hide=jupyter%20notebook&theme=dark#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=mohamedamine99&layout=compact&show_icons=true&hide=jupyter%20notebook&theme=light#gh-light-mode-only&hide=jupyter%20notebook" alt="Anurag's GitHub stats-Light">
-  </a>
-</p>
--->
-
-
-<!--
-<p align="center">
-  <!-- GitHub Stats Card (Dark & Light Mode) 
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats-9pxk0t94q-mohamed-amines-projects-48cb97ce.vercel.app/api?username=mohamedamine99&show=discussions_answered&hide=contribs,prs&show_icons=true&theme=dark#gh-dark-mode-only" alt="mohamedamine99's GitHub stats-Dark" height="130px">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats-9pxk0t94q-mohamed-amines-projects-48cb97ce.vercel.app/api?username=mohamedamine99&show=discussions_answered&hide=contribs,prs&show_icons=true&theme=default#gh-light-mode-only" alt="mohamedamine99's GitHub stats-Light" height="130px">
-  </a>
-
-  <!-- Streak Stats Card (Dark & Light Mode) 
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats-9pxk0t94q-mohamed-amines-projects-48cb97ce.vercel.app/api/streak?user=mohamedamine99&show_icons=true&theme=dark#gh-dark-mode-only" alt="mohamedamine99's Streak-Dark" height="130px">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats-9pxk0t94q-mohamed-amines-projects-48cb97ce.vercel.app/api/streak?user=mohamedamine99&show_icons=true&theme=default#gh-light-mode-only" alt="mohamedamine99's Streak-Light" height="130px">
-  </a>
-</p>
-
-<p align="center">
-  <!-- Top Languages Card (Dark & Light Mode) 
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats-9pxk0t94q-mohamed-amines-projects-48cb97ce.vercel.app/api/top-langs/?username=mohamedamine99&layout=compact&show_icons=true&hide=jupyter%20notebook&theme=dark#gh-dark-mode-only" alt="mohamedamine99's Top Languages-Dark" height="130px">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats-9pxk0t94q-mohamed-amines-projects-48cb97ce.vercel.app/api/top-langs/?username=mohamedamine99&layout=compact&show_icons=true&hide=jupyter%20notebook&theme=default#gh-light-mode-only" alt="mohamedamine99's Top Languages-Light" height="130px">
-  </a>
-</p>
--->
+<div align="center">
+  <img src="./profile/languages.svg" width="410"/>
+</div>
 
 
 ### ⚙️ My Projects : 
