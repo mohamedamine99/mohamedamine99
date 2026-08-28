@@ -24,10 +24,11 @@ Please feel free to check out my projects and contributions, and let me know if 
   <img src="./profile/streak.svg" width="410"/>
 </div>
 
+<!--
 <div align="center">
   <img src="./profile/languages.svg" width="410"/>
 </div>
-
+-->
 
 ### ⚙️ My Projects : 
 
