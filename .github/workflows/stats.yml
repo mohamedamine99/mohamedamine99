@@ -22,12 +22,12 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Generate Main Stats
-      - name: Generate main stats card
+      # Generate Stars Card
+      - name: Generate stars card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide_title=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide_title=true&hide=commits,prs,issues,contribs&hide_rank=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
