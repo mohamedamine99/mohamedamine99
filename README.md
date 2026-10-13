@@ -5,8 +5,9 @@
 <a href="https://www.linkedin.com/in/mohamed-amine-ben-abdeljelil-86a41a1a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="mailto:mohamedamine.benabdeljelil@insat.ucar.tn"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedamine99&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22mohamedamine99" /> </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamedamine99&label=Profile%20Visits&color=blue&style=plastic" alt="Profile Visits" />
+</p>
 
 <h3 align="center">I am a computer vision engineer with experience in embedded software development.</h3>
 
